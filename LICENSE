@@ -1,6 +1,6 @@
 Microsoft Public License (MS-PL)
 
-The initial project was originally created by Armand du Plessis <armand@dotnet.org.za> in 2004 and now is extended and maintained by Tulpep.
+The parent project Tulpep.ActiveDirectoryObjectPicker was originally created by Armand du Plessis <armand@dotnet.org.za> in 2004 and now is extended and maintained by Tulpep. This PowerShell module is created and maintained by Shannon Graybrook.
 
 This license governs use of the accompanying software. If you use the software, you
 accept this license. If you do not accept the license, do not use the software.
